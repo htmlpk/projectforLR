@@ -15,6 +15,7 @@ namespace Красивый_запуск
         public Form2()
         {
             InitializeComponent();
+            //Изменения Туц-Туц
         }
     }
 }
