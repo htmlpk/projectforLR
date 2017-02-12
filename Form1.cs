@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Красивый_запуск
+namespace ��������_������
 {
     public partial class Form1 : Form
     {
@@ -23,6 +23,7 @@ namespace Красивый_запуск
             if (this.Opacity == 1)
             {
                 timer1.Stop();
+//komment
             }                
         }
 
